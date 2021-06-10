@@ -1,0 +1,91 @@
+* Правила чата
+
+Обсуждаем GNU Emacs и все, что с ним связанно, то есть вообще все.
+Оффтопик разрешен, но вопросы по теме имеют приоритет.
+
+Наказание за нежелательное поведение администрация выбирает на своё
+усмотрение. Если вас забанили по ошибке или вы готовы пересмотреть
+своё поведение свяжитесь с одним из администраторов, например
+@fried_zucchini.
+
+* Наши друзья и единомышленники
+
+- @ru_mechcult :: хороший редактор начинается с клавиатуры
+- @clojure_ru :: программисты на лиспе, прямо как мы :3
+- @gnu_guix_ru :: целая операционная система пролиспованная насквозь
+
+* Конфиги уважаемых людей
+
+** Дмитрий Л.
+
+[[https://github.com/a13/emacs.d][Github]]
+
+Классический конфиг, который помог уже нескольким поколениям новичков
+освоиться в Emacs. Start here!
+
+Клавиши стандартные. Языки программирования -- Clojure.
+
+[[https://orgmode.org/][Org-Mode]] и [[https://jwiegley.github.io/use-package/][Use-Package]] вместе задают структуру конфига. [[https://github.com/abo-abo/swiper][Ivy, Counsel и
+Swiper]] отвечают за дополнение в минибуфер и поиск по тексту. [[https://github.com/company-mode/company-mode][Company]]
+дополняет текст в буфере. Передвижение по тексту -- [[https://github.com/abo-abo/avy][Avy]], передвижение
+по буферам -- [[https://github.com/abo-abo/ace-window][Ace-Window]]. Много плагинов для работы с [[https://github.com/a13/emacs.d#programming-related][Git]] и [[https://github.com/a13/emacs.d#dired][Dired]].
+
+** Никита Д.
+
+[[https://github.com/krevedkokun/emacs-config][Github]]
+
+Simple made easy.
+
+[[https://github.com/emacs-evil/evil][Evil]] (эмуляция Vim). Языки программирования -- Scheme, Clojure.
+
+Структуру задает Use-Package. Для дополнения используется встроенный
+Icomplete, улучшенный с помощью [[https://github.com/minad/marginalia][Marginalia]] и [[https://github.com/oantolin/orderless][Orderless]] (нечеткий
+поиск). И встроенный [[https://www.gnu.org/software/emacs/manual/html_mono/flymake.html][Flymake]] для линтеров -- "диды" одобряют, короче.
+
+** Джюс Ш.
+
+[[https://gitlab.com/bit9tream/dot/-/tree/master/Emacs][Gitlab]]
+
+Use-Package, Org. Крупный сетап Exwm и Telega.el.
+
+** Дмитрий П.
+
+[[https://hg.sr.ht/~liltechdude/dots/browse/emacs/config.org?rev=tip][Sourcehut]]
+
+Стандартные клавиши.
+
+Та же популярная связка Org и Use-Package, но сами комментарии обильны
+и написаны на _русском_ языке! Создавался с целью помочь новичкам, так
+что может быть начать стоит именно с него.
+
+Почтовый клиент [[https://www.djcbsoftware.nl/code/mu/mu4e/index.html][Mu4e]], Org-Mode для блоггинга и агенды. За дополнение
+отвечает связка [[https://github.com/raxod502/selectrum][Selectrum]], [[https://github.com/minad/consult][Consult]], Marginalia и Orderless. [[https://github.com/akermu/emacs-libvterm][Vterm]] --
+лучший терминал в Emacs на текущий момент.
+
+** Валерий Л.
+
+[[https://github.com/xFA25E/nixpkgs-config/blob/master/emacs/init.el][Github]] (Emacs), [[https://github.com/xFA25E/nixpkgs-config/blob/master/overlays/emacs.nix][Github]] (Nix)
+
+Everything and the kitchen sink.
+
+Пакеты устанавливаются с помощью [[https://nixos.org/][Nix]], за структуру =init.el= отвечает
+Outline, но большая часть настроек хранится в отдельном Custom файле.
+
+Дополнение по умолчанию, улучшенное Marginalia, Consult и Orderless.
+Потребление новостного и медиа контента через [[https://www.gnu.org/software/emacs/manual/html_node/newsticker/index.html][Newsticker]] и Mpc.
+Оригинальная разработка [[https://github.com/xFA25E/skempo][Skempo]] для сниппетов. Почта в Mu4e.
+
+** Сергей М.
+
+[[https://github.com/SeTSeR/nixos-config/tree/master/modules/users/smakarov/emacs][Github]] (Emacs), [[https://github.com/SeTSeR/nixos-config/blob/master/modules/config.nix][Github]] (Nix)
+
+Nix + Use-Package, языки программирования -- Rust, C++.
+
+Телеграм через [[https://github.com/zevlg/telega.el][telega]], Matrix, для почты Gnus и [[https://notmuchmail.org/][Notmuch]]. [[https://joaotavora.github.io/yasnippet/][Yasnippet]] для
+сниппетов. Хитрая настройка для работы с Rust LSP на удаленном хосте.
+Терминал -- Vterm
+
+Как вишенка на торте [[https://github.com/ch11ng/exwm][EXWM]] -- Emacs X Window Manager. Это не шутка,
+Emacs может и такое.
+
+** Здесь может быть ваше имя!
