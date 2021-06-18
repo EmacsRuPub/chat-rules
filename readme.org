@@ -32,15 +32,16 @@ Swiper]] отвечают за дополнение в минибуфер и п�
 
 ** Никита Д.
 
-[[https://github.com/krevedkokun/emacs-config][Github]]
+[[https://git.sr.ht/~krevedkokun/dotfiles/tree/master/item/cfg/home/asgard.scm][Sourcehut]] (guix-home), [[https://git.sr.ht/~krevedkokun/dotfiles/tree/master/item/cfg/home/files/init.el][Sourcehut]] (emacs)
 
 Simple made easy.
 
 [[https://github.com/emacs-evil/evil][Evil]] (эмуляция Vim). Языки программирования -- Scheme, Clojure.
 
+Пакеты устанавливаются с помощью [[https://guix.gnu.org][GNU/Guix]] (в частности [[https://git.sr.ht/~abcdw/rde][guix-home]])
 Структуру задает Use-Package. Для дополнения используется встроенный
-Icomplete, улучшенный с помощью [[https://github.com/minad/marginalia][Marginalia]] и [[https://github.com/oantolin/orderless][Orderless]] (нечеткий
-поиск). И встроенный [[https://www.gnu.org/software/emacs/manual/html_mono/flymake.html][Flymake]] для линтеров -- "диды" одобряют, короче.
+Icomplete, улучшенный с помощью [[https://github.com/minad/marginalia][Marginalia]] и [[https://github.com/oantolin/orderless][Orderless]] (нечеткий поиск).
+И встроенный [[https://www.gnu.org/software/emacs/manual/html_mono/flymake.html][Flymake]] для линтеров -- "диды" одобряют, короче.
 
 ** Джюс Ш.
 
