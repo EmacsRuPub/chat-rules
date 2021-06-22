@@ -71,7 +71,7 @@ Everything and the kitchen sink.
 Пакеты устанавливаются с помощью [[https://nixos.org/][Nix]], за структуру =init.el= отвечает
 Outline, но большая часть настроек хранится в отдельном Custom файле.
 
-Дополнение по умолчанию, улучшенное Marginalia, Consult и Orderless.
+Дополнение по умолчанию, улучшенное Marginalia и Consult.
 Потребление новостного и медиа контента через [[https://www.gnu.org/software/emacs/manual/html_node/newsticker/index.html][Newsticker]] и Mpc.
 Оригинальная разработка [[https://github.com/xFA25E/skempo][Skempo]] для сниппетов. Почта в Mu4e.
 
