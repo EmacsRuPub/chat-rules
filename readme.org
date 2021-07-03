@@ -47,7 +47,15 @@ Icomplete, улучшенный с помощью [[https://github.com/minad/mar
 
 [[https://gitlab.com/bit9tream/dot/-/tree/master/emacs][Gitlab]]
 
-Use-Package, Org. Крупный сетап Exwm и Telega.el.
+Simple yet powerful.
+
+Структурированно с помощью [[https://github.com/jwiegley/use-package][Use-Package]]. 
+Клавиши стандартные.
+
+Крупный сетап [[https://github.com/ch11ng/exwm][EXWM]], [[https://github.com/zevlg/telega.el][telega.el]].
+Для заметок - [[https://github.com/org-roam/org-roam][Org-Roam]].
+[[https://github.com/akermu/emacs-libvterm][Vterm]] в качестве терминала.
+А для комплишена используется /старый советский/ =completing-read=.
 
 ** Дмитрий П.
 
