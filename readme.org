@@ -45,7 +45,7 @@ Icomplete, улучшенный с помощью [[https://github.com/minad/mar
 
 ** Джюс Ш.
 
-[[https://gitlab.com/bit9tream/dot/-/tree/master/Emacs][Gitlab]]
+[[https://gitlab.com/bit9tream/dot/-/tree/master/emacs][Gitlab]]
 
 Use-Package, Org. Крупный сетап Exwm и Telega.el.
 
