@@ -49,7 +49,7 @@ Icomplete, улучшенный с помощью [[https://github.com/minad/mar
 
 Simple yet powerful.
 
-Структурированно с помощью [[https://github.com/jwiegley/use-package][Use-Package]]. 
+Структурированно с помощью [[https://github.com/jwiegley/use-package][Use-Package]].
 Клавиши стандартные.
 
 Крупный сетап [[https://github.com/ch11ng/exwm][EXWM]], [[https://github.com/zevlg/telega.el][telega.el]].
@@ -73,7 +73,7 @@ Simple yet powerful.
 
 ** Валерий Л.
 
-[[https://github.com/xFA25E/nixpkgs-config/blob/master/emacs/init.el][Github]] (Emacs), [[https://github.com/xFA25E/nixpkgs-config/blob/master/overlays/emacs.nix][Github]] (Nix)
+[[https://github.com/xFA25E/nixpkgs-config/blob/master/emacs][Github]] (Emacs), [[https://github.com/xFA25E/nixpkgs-config/blob/master/overlays/emacs.nix][Github]] (Nix)
 
 Everything and the kitchen sink.
 
@@ -82,7 +82,7 @@ Outline, но большая часть настроек хранится в о�
 
 Дополнение по умолчанию, улучшенное Marginalia и Consult.
 Потребление новостного и медиа контента через [[https://www.gnu.org/software/emacs/manual/html_node/newsticker/index.html][Newsticker]] и Mpc.
-Оригинальная разработка [[https://github.com/xFA25E/skempo][Skempo]] для сниппетов. Почта в Mu4e.
+Оригинальная разработка [[https://github.com/xFA25E/skempo][Skempo]] для сниппетов. Почта в Notmuch.
 
 ** Сергей М.
 
