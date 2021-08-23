@@ -47,15 +47,15 @@ Icomplete, улучшенный с помощью [[https://github.com/minad/mar
 
 [[https://gitlab.com/bit9tream/dot/-/tree/master/emacs][Gitlab]]
 
-Simple yet powerful.
+Perfect for going into the woods.
 
 Структурированно с помощью [[https://github.com/jwiegley/use-package][Use-Package]].
 Клавиши стандартные.
 
 Крупный сетап [[https://github.com/ch11ng/exwm][EXWM]], [[https://github.com/zevlg/telega.el][telega.el]].
 Для заметок - [[https://github.com/org-roam/org-roam][Org-Roam]].
-[[https://github.com/akermu/emacs-libvterm][Vterm]] в качестве терминала.
-А для комплишена используется /старый советский/ =completing-read=.
+Стильный модный и молодежный сетап комплишена через связку [[https://github.com/oantolin/orderless][Orderless]], [[https://github.com/minad/corfu][Corfu]], [[https://github.com/minad/vertico][Vertico]], [[https://github.com/oantolin/embark/][Embark]], [[https://github.com/minad/marginalia][Marginalia]] и [[https://github.com/minad/consult][Consult]].
+А ещё =eshell=.
 
 ** Дмитрий П.
 
