@@ -32,7 +32,7 @@ Swiper]] отвечают за дополнение в минибуфер и п�
 
 ** Никита Д.
 
-[[https://git.sr.ht/~krevedkokun/dotfiles/tree/master/item/cfg/home/asgard.scm][Sourcehut]] (guix-home), [[https://git.sr.ht/~krevedkokun/dotfiles/tree/master/item/cfg/home/files/init.el][Sourcehut]] (emacs)
+[[https://git.sr.ht/~krevedkokun/dotfiles/tree/master/item/home/yggdrasil/emacs.scm][Sourcehut]] (guix-home), [[https://git.sr.ht/~krevedkokun/dotfiles/tree/master/item/home/yggdrasil/files/init.el][Sourcehut]] (emacs)
 
 Simple made easy.
 
