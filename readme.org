@@ -73,11 +73,11 @@ Perfect for going into the woods.
 
 ** Валерий Л.
 
-[[https://github.com/xFA25E/nixpkgs-config/blob/master/emacs][Github]] (Emacs), [[https://github.com/xFA25E/nixpkgs-config/blob/master/overlays/emacs.nix][Github]] (Nix)
+[[https://github.com/xFA25E/nix-config/tree/master/nixos/stribog/home/xdg/emacs][Github]]
 
 Everything and the kitchen sink.
 
-Пакеты устанавливаются с помощью [[https://nixos.org/][Nix]], за структуру =init.el= отвечает
+[[https://github.com/xFA25E/nix-config/blob/master/nixos/stribog/home/programs/emacs.nix][Пакеты]] устанавливаются с помощью [[https://nixos.org/][Nix]], за структуру =init.el= отвечает
 Outline, но большая часть настроек хранится в отдельном Custom файле.
 
 Дополнение по умолчанию, улучшенное Marginalia и Consult.
